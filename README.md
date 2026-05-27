@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm literally <a href="https://www.github.com/kineticful">Maxim</a>!</h1>
+<h1 align="center">Hi, I'm literally <a href="https://www.github.com/minmaks">Maxim</a>!</h1>
   
 <p align="center">
   <strong><a href="https://t.me/baitishnik">Blog</a></strong> |
@@ -11,9 +11,9 @@
 
 <h1 align="center">
   Also you can find out my 
-  <a href="https://github.com/sonselin/Sber_CPP_Projects">CPP</a> 
+  <a href="https://github.com/minmaks/Sber_CPP_Projects">CPP</a> 
   and 
-  <a href="https://github.com/sonselin/Sber_ML_Projects">DS/ML</a> 
+  <a href="https://github.com/minmaks/Sber_ML_Projects">DS/ML</a> 
   projects belong to Sber 21<br>
   (ex Ecole 42, rebranded for CIS zone)
 </h1>
